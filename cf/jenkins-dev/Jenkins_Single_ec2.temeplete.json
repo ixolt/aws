@@ -32,7 +32,7 @@
 
     "InstanaceName":{},
 
-    "ServerSecurityGroup:{}"
+    "ServerSecurityGroup":{}
   },
 
   "SpotFleet": {
